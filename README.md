@@ -53,7 +53,7 @@ To simulate Quadrature Phase-Shift Keying (QPSK) Modulation using python code.
     t_total = np.arange(0, num_symbols * T, 1/fs)
 
     # Plotting the QPSK signal
-    plt.figure(figsize=(14, 12))
+    plt.figure(figsize=(16, 14))
 
     # Message signal visualization (Bit sequence)
     plt.subplot(4, 1, 1)
@@ -104,7 +104,8 @@ To simulate Quadrature Phase-Shift Keying (QPSK) Modulation using python code.
     plt.show()
 
 # OUTPUT
-![image](https://github.com/user-attachments/assets/4c9ba4b6-0c49-439f-bd18-4a2b22963201)
+
+![image](https://github.com/user-attachments/assets/89e4c751-4396-4c54-9ef7-e118b4ec0c00)
 
  
 # RESULT / CONCLUSIONS
