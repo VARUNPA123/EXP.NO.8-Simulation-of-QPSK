@@ -104,5 +104,7 @@ To simulate Quadrature Phase-Shift Keying (QPSK) Modulation using python code.
     plt.show()
 
 # OUTPUT
+![image](https://github.com/user-attachments/assets/4c9ba4b6-0c49-439f-bd18-4a2b22963201)
+
  
 # RESULT / CONCLUSIONS
