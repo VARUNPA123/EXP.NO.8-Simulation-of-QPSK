@@ -6,6 +6,7 @@
 To simulate Quadrature Phase-Shift Keying (QPSK) Modulation using python code.
 
 # SOFTWARE REQUIRED
+Google Colab
 
 # ALGORITHMS
 
