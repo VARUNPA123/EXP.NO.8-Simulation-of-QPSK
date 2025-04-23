@@ -110,3 +110,4 @@ Google Colab
 
  
 # RESULT / CONCLUSIONS
+Thus, the QPSK simulation successfully generated the modulated waveform, illustrating clear phase transitions in the in-phase and quadrature components. The resultant QPSK waveform effectively represents symbol mapping, confirming accurate modulation and data transmission.
