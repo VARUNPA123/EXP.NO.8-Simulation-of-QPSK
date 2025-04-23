@@ -9,6 +9,14 @@ To simulate Quadrature Phase-Shift Keying (QPSK) Modulation using python code.
 Google Colab
 
 # ALGORITHMS
+1. Initialize Parameters – Define the number of symbols, symbol period, sampling frequency, and time vector.
+2. Generate Message Signal – Create a random bit sequence and map pairs of bits to QPSK symbols using Gray coding.
+3. Define Phase Mapping – Assign distinct phase shifts to symbols to ensure minimal errors in transmission.
+4. Generate Carrier Signals – Create in-phase (cosine wave) and quadrature (sine wave) carriers for modulation.
+5. Perform QPSK Modulation – Apply corresponding phase shifts to each symbol and combine modulated carriers.
+6. Store Symbol Timing – Record transition points to visualize phase shifts over time.
+7. Plot Signal Components – Visualize the message signal, in-phase component, quadrature component, and modulated waveform.
+8. Analyze Results – Ensure correct binary mapping, validate phase transitions, and verify QPSK’s reliability in data transmission.
 
 # PROGRAM
     import numpy as np
